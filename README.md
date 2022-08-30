@@ -1,4 +1,6 @@
-ig Eat Small is an another version of the famous Tic Tac Toe game. Instead of "X", "O", here we use 6 Cups of 3 different sizes. Any cup with greater size can replace the smaller one.
+#Big Eat Small
+
+Big Eat Small is an another version of the famous Tic Tac Toe game. Instead of "X", "O", here we use 6 Cups of 3 different sizes. Any cup with greater size can replace the smaller one.
 
 Features :-
 👍 2 player single device Offline mode
