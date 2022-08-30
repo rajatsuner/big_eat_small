@@ -1,16 +1,15 @@
-# getbase
+ig Eat Small is an another version of the famous Tic Tac Toe game. Instead of "X", "O", here we use 6 Cups of 3 different sizes. Any cup with greater size can replace the smaller one.
 
-A new Flutter project.
+Features :-
+👍 2 player single device Offline mode
+👍 2 player Online gameplay mode
 
-## Getting Started
+Technology used :- 
+1️⃣ Flutter - App frontend framework
+2️⃣ Nodejs - Server / Backend
+3️⃣ socket.io - full duplex communication
+4️⃣ MongoDB - stores the gameplay data
+5️⃣ Heroku - host the server
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Will provide the application link soon..
