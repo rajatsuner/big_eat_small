@@ -59,7 +59,7 @@ class HomePage extends StatelessWidget {
             ),
             gameTile(0),
             gameTile(1),
-            gameTile(2)
+            //  gameTile(2)
           ],
         ));
   }
