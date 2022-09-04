@@ -13,5 +13,6 @@ Big Eat Small is an another version of the famous Tic Tac Toe game. Instead of "
 4️⃣ MongoDB - stores the gameplay data<br>
 5️⃣ Heroku - host the server<br><br>
 
+Check App screenshot at https://github.com/rajatsuner/big_eat_small/blob/main/screenshots
 
 Will provide the application link soon..
